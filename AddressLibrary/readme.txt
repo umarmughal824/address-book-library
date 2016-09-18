@@ -2,8 +2,8 @@ Address Book Library
 REST API
 
 Dependencies
-Django 1.10.1
-djangorestframework 3.4.6
+Django==1.10.1
+djangorestframework==3.4.6
 
 First Install django and django restframework
 
