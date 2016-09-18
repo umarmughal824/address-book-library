@@ -7,6 +7,8 @@ djangorestframework==3.4.6
 
 First Install django and django restframework
 
+Download the entire directory with that name AddressLibrary (https://github.com/umarmughal824/address-book-library/tree/master/AddressLibrary)
+
 then run "python manage.py makemigrations"
 then after that it will create a migrate which we will migrate it by running the following command
 "python manage.py migrate"
